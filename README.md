@@ -1,5 +1,6 @@
 # happyvirus
 Frist commit 
+<<<<<<< HEAD
 
 commit from remote develop
 
@@ -10,3 +11,6 @@ commit from remote develop
 4th from remote
 
 5th from remote
+=======
+Second commit
+>>>>>>> second commit
